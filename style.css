@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background: linear-gradient(135deg, #1e3c72, #2a5298);
-    color: white;
+    color: red;
     text-align: center;
 }
 
@@ -50,5 +50,5 @@ button {
 }
 
 button:hover {
-    background: #e68900;
+    background: #e68910;
 }
